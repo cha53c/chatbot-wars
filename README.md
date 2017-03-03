@@ -1,5 +1,5 @@
 # chatbot-wars
-## Proposed set up
+## Proposed Set Up For the Day
 1. Complete a card with you details on including the names of all the team members
 2. Each team will submit a team name which will be used to create their channel on slack
 3. Each team will submit a name for their bot
@@ -10,3 +10,7 @@
 8. In the afternoon a group of judges will try out the bots
 9. At the end of the day there we will run through all the bots on all the channels
 10. Prize for the best robo dance
+
+## Environments
+Provide a vm with docker, hubot, git and atom installed
+
