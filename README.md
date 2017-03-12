@@ -14,6 +14,4 @@
 ## Environments Options
 Run locally
 Run on a local VM
-TJG could provide a vm with docker, hubot, git and atom installed
-Set up your own remote server on vm such ocean or azure, digital ocean or aws
-provide a micro instance on our aws, but only if requested before hand.
+Run on a VPC provider of your choice
